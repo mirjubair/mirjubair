@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mirjubair
+- 👋 Hi, I’m @mirjubairulrehman
 - 👀 I’m interested in Full Mern Stack
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different front end projects
