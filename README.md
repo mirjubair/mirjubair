@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirjubairulrehman
-- 👀 I’m interested in Mern Stack
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on different front end projects
+- 👀 I’m interested in Data Science | AI
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on different Machine Learning projects
 - 📫 you can reach me at  ujubairulrehman@gmail.com
 
 <!---
