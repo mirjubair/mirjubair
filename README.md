@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mirjubairulrehman
-- 👀 I’m interested in Full Stack Web development {MERN}
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on different Machine Learning projects
+- 👀 I’m interested in Backend Devlopment {Django}
 - 💞️ I’m looking to collaborate on different Web Dev projects
 - 📫 you can reach me at  ujubairulrehman@gmail.com
 
