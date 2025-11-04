@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirjubairulrehman
-- 👀 I’m interested in Backend Devlopment {Django}
-- 💞️ I’m looking to collaborate on different Web Dev projects
+- 👀 I’m interested in Backend Devlopment {Expressjs,FastApi,Django} and AI/ML 
+- 💞️ I’m looking to collaborate on different Web Dev projects and machine learning projects
 - 📫 you can reach me at  ujubairulrehman@gmail.com
 
 <!---
